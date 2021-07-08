@@ -1,0 +1,93 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.orange-color{
+   color: orangered;
+
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.about-us img{
+    width: 50%;
+    height: 500px;
+    padding-left: 20%;
+}
+
+.about-us{
+    background-image: url(images/Frame.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    text-align: justify;
+}
+
+.border-line{
+    border: 10px solid white;
+    border-radius: 20px;
+    margin: 10px 15px 20px 50px;
+
+}
+
+.half-width border-line{
+    height: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.mid-text h1{
+    text-align: center;
+}
+
+.mid-text p{
+    text-align: center;
+}
+
+.mid-point{
+    width: 15%;
+    margin: 0 auto;
+
+}
+.food img{
+    border-radius: 10%;
+}
+
+.foot{
+    color: orangered;
+}
+
+footer{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    padding: 20px;
+}
+
