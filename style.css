@@ -1,0 +1,112 @@
+
+body{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+.baner-image{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    text-align: center;
+    position: relative;
+}
+.baner-heading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:white;
+}.main-header{
+    font-size: 70px;
+}
+.donate-now{
+    text-decoration: none;
+    background-color: rgb(221, 80, 80);
+    margin: 10px;
+    padding: 10px 20px;
+    color:white;
+    border-radius: 10px;
+}
+img{
+    opacity:1;
+}
+.second-donate{
+    text-align: center;
+}
+.all-header{
+    font-size: 50px;
+}
+.box{
+    text-align: center;
+    padding: 30px;
+}
+.amount{
+    margin: 10px;
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+}
+.other-amount{
+    text-align: center;
+}
+.donate-now-second{
+    margin-top: 10px;
+}
+.plan-boxs{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px;
+}
+.plan{
+    background-color:lightcoral;
+    padding: 20px;
+    border-radius: 15px;
+    width: 250px;
+}
+.plan-a-clr{
+    background:lightblue ;
+}
+.plan-b-clr{
+    background:lightcoral ;
+}
+.plan-c-clr{
+    background: lightgreen;
+}
+.food-donation{
+    display: flex;
+    margin: 20px;
+    padding: 0px 70px ;
+}
+.donation-image img{
+
+    height: 300px;
+}
+
+.donation-image{
+    width: 20%;
+    padding: 50px 30px;
+    margin: 30px;
+   
+}
+.food-items{
+    width: 40%;
+    padding: 50px;
+    margin: 30px;
+    text-align: justify;
+}
+.titel{
+    font-size: 40px;
+}
+.food-items-two{
+  width: 70%;
+  margin: 10px;
+  padding: 20px 40px 20px 300px;
+}
+.footer-background{
+    background-color: black;
+    margin: 0%;
+    border: none;
+}
