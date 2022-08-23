@@ -109,4 +109,25 @@ img{
     background-color: black;
     margin: 0%;
     border: none;
+    font-style:inherit
+}
+.mail-box{
+    text-align: center;
+    background-color: rgb(228, 216, 216);
+    margin: auto;
+    padding: 50px;
+    width:50%;
+}
+.email{
+    border: none;
+    padding: 10px;
+    margin-right: 0px;
+    border-radius:5px ;
+}
+.submit-btn{
+    text-decoration: none;
+    background-color: rgb(221, 80, 80);
+    padding: 10px 20px;
+    color:white;
+    border-radius: 10px;
 }
